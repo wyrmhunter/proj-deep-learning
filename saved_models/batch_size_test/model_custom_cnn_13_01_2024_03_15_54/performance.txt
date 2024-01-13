@@ -1,0 +1,2 @@
+accuracy : 91.50326797385621%
+mean trust : tensor(0.7222)
